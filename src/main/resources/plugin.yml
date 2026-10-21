@@ -1,0 +1,10 @@
+name: MobSwapper
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A plugin that swaps positions with mobs when fishing or teleports the player if no mob is caught.
+api-version: "1.21"
+commands:
+  mobswapper:
+    description: Main command for MobSwapper plugin.
+    usage: /mobswapper
